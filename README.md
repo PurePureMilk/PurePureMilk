@@ -1,13 +1,13 @@
 # 💫 About Me
-I'm a Computer Science graduate learning:<br> 
+**I'm a Computer Science graduate learning:**<br> 
 👩🏻‍💻 C++ and Game Development<br><br>
-I'm currently working on:<br>
+**I'm currently working on:**<br>
 🖥️ Game Development projects with Unreal<br><br>
-I'm looking to learn more on:<br>
+**I'm looking to learn more on:**<br>
 🎮 Game dev or Web Dev<br><br>
-Ask me about:<br>
+**Ask me about:**<br>
 💬 Computer Science or Game design<br><br>
-Fun fact:<br>
+**Fun fact:**<br>
 🎵 I like to play music
 
 
